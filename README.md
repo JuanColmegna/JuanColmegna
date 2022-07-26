@@ -10,7 +10,7 @@ Nowadays I work for a public organization in Santa Fe Province.
 
 I'm an accountant and IT student. 🤓
   
-I'm father for two dogs. 🐶🐶
+I'm the father of two dogs. 🐶🐶
   
 
 ```js
