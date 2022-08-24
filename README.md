@@ -1,6 +1,7 @@
-<h1>Hi, I'm Juan! 😄🤚<h1>
-
 ![me](https://user-images.githubusercontent.com/101934494/186535565-c5117817-e087-45f8-923c-585fa041e7a0.png)
+
+<h1>I'm Juan! 😄🤚<h1>
+
 
 🟣 About Me:
 
