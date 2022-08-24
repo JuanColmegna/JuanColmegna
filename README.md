@@ -17,7 +17,7 @@ I'm the father of two dogs. 🐶🐶
 ```js
 const juanColmegna = {
   nickname: "Juanchi",
-  code: [HTML, CSS, Javascript],
+  code: [HTML, CSS, Javascript, Java],
   tools: [Bootstrap, SASS, React, Node]
 }
 ```
