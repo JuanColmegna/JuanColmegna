@@ -1,6 +1,6 @@
 <h1>Hi, I'm Juan! 😄🤚<h1>
 
-![me](https://user-images.githubusercontent.com/101934494/180842693-f4f1f8b2-ee2a-45a8-8a34-ec9b44fae309.png)
+![me](https://user-images.githubusercontent.com/101934494/186535565-c5117817-e087-45f8-923c-585fa041e7a0.png)
 
 🟣 About Me:
 
