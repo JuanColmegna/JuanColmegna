@@ -18,7 +18,6 @@ I'm the father of a dog. 🐶
 const juanColmegna = {
   nickname: "Juanchi",
   code: [HTML, CSS, Javascript, Java, PHP, C++],
-  tools: [Bootstrap, SASS, React, Node]
 }
 ```
 
