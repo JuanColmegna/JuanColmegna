@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>I'm Juan! 😄🤚<h1>
 
-<!--
-**JuanColmegna/JuanColmegna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🟣 About Me:
 
-Here are some ideas to get you started:
+I'm from Argentina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nowadays I work for a public organization in Santa Fe Province.
+
+I'm an accountant and IT student. 🤓
+  
+I'm the father of a dog. 🐶
+  
+
+```js
+const juanColmegna = {
+  nickname: "Juanchi",
+  code: [HTML, CSS, Javascript, Java, PHP, C++],
+}
+```
+
+Thank U for reading my description!
